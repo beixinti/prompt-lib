@@ -2,6 +2,9 @@
 
 > [!TIP]
 > 点击页面左上角的 **List Icon** ($\vdots \equiv$) 即可展开完整目录，快速跳转。
+
+<img src="https://github.com/user-attachments/assets/a69b2ce3-fde1-413d-89a2-6f514b6f1f3b" width="256">
+
 ## 自然语言优化为Inpaint Prompt（输出简体中文）
 
 ```
